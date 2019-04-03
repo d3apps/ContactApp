@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "539180128886",
+    "firebase_url": "https://contactapp-1ba36.firebaseio.com",
+    "project_id": "contactapp-1ba36",
+    "storage_bucket": "contactapp-1ba36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539180128886:android:0a2998af7df8f1d3",
+        "android_client_info": {
+          "package_name": "com.android.test.contactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539180128886-qk7170tua6rvter7v6qb4iq96btb4a9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXvrJ3eTORq298MRH-E7IkX6VUY7aUKMI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539180128886:android:936f171c4c245617",
+        "android_client_info": {
+          "package_name": "com.example.anton.contactsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539180128886-qk7170tua6rvter7v6qb4iq96btb4a9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXvrJ3eTORq298MRH-E7IkX6VUY7aUKMI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539180128886:android:6976590deb1e281b",
+        "android_client_info": {
+          "package_name": "com.example.daniel.contactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539180128886-qk7170tua6rvter7v6qb4iq96btb4a9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXvrJ3eTORq298MRH-E7IkX6VUY7aUKMI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539180128886:android:73a2bac2bf4cd6aa",
+        "android_client_info": {
+          "package_name": "com.example.denni.contactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539180128886-qk7170tua6rvter7v6qb4iq96btb4a9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXvrJ3eTORq298MRH-E7IkX6VUY7aUKMI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
